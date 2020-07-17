@@ -6,10 +6,11 @@ int	my_isalnum(char param_1) {
 	else
 		return (0);
 }
-
+/*
 int	main() {
 	printf("-> %d\n", my_isalnum('a'));
 	printf("-> %d\n", my_isalnum(']'));
 	printf("-> %d\n", my_isalnum('0'));
 	return (0);
 }
+*/
